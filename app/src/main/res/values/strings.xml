@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">test02</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_item_list">item_list</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="news_a">President Joe Biden has laid out plans to vaccinate 70%</string>
+
+    <string name="lorem_ipsum">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam in scelerisque sem. Mauris
+        volutpat, dolor id interdum ullamcorper, risus dolor egestas lectus, sit amet mattis purus
+
+
+    </string>
+
+    <string name="head_1">1</string>
+    <string name="head_2">2</string>
+    <string name="head_3">3</string>
+    <string name="head_4">4</string>
+    <string name="head_5">5</string>
+    <string name="head_6">6</string>
+    <string name="head_7">7</string>
+    <string name="head_8">8</string>
+    <string name="head_9">9</string>
+    <string name="head_10">10</string>
+</resources>
